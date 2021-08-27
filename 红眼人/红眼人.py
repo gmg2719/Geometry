@@ -1,6 +1,8 @@
 import numpy as np
 
-
+"""
+如何通过程序模拟红眼人问题
+"""
 class Person:
     def __init__(self):
         pass
